@@ -1,0 +1,24 @@
+#body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    background-color: aqua;
+
+}
+
+.jumbotron {
+    width: 50%;
+}
+#number {
+    margin: 20px;
+    
+}
+.button {
+    width: 90px;
+    float: left;
+}
+.gameBody {
+    background-color: rgb(177, 177, 255);
+    /* float: left; */
+    width: 10%;
+    margin: 20px;
+}
